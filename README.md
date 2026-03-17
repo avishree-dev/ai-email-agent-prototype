@@ -4,7 +4,7 @@ AI Email Agent Prototype
 
 https://www.loom.com/share/322e6a8c2a664dfeaa2be379d3034bfd
 
-assets/screenshots/demo.png
+Screenshots/demo.png
 
 
 # Problem
